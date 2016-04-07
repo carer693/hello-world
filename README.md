@@ -1,2 +1,3 @@
 # hello-world
 Test för att lära mig lite om GitHub
+Det är här i branschen som jag ska ändra. Gjorde fel först och ändrade i master...instruktionen visade inte att jag skulle byta till branschen. Trodde det blev automatiskt då jag skapade den...
